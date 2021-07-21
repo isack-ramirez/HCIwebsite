@@ -1,3 +1,15 @@
 body{
     background-color: whitesmoke;
 }
+
+#testContent {
+    
+    background-color: white;
+    background-image: url("./assets/stock-vector-abstract-wireframe-city-background-perspective-d-render-of-building-wireframe-vector-1120692494.jpg");
+
+   }
+
+#picturesBackground{
+    background-image: url("./assets/stock-vector-abstract-wireframe-city-background-perspective-d-render-of-building-wireframe-vector-1120692494.jpg");
+
+}

@@ -5,11 +5,14 @@ body{
 #testContent {
     
     background-color: white;
-    background-image: url("./assets/stock-vector-abstract-wireframe-city-background-perspective-d-render-of-building-wireframe-vector-1120692494.jpg");
+    background-image: url("./assets/mainBG");
 
    }
 
-#picturesBackground{
-    background-image: url("./assets/stock-vector-abstract-wireframe-city-background-perspective-d-render-of-building-wireframe-vector-1120692494.jpg");
 
-}
+   /* #textContainerMain{
+    background-color: #B8B9BB;
+    
+} */
+
+
